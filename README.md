@@ -50,5 +50,7 @@ Offset (Dec)	Field Name	Type	Description
 88	Timesign	int32	File creation timestamp (Unix format)
 92	Last Sync	int32	Last sync or update timestamp
 
+
+
 📜 License
 This project is licensed under the MIT License.
