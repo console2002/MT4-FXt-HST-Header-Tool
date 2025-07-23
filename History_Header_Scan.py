@@ -55,19 +55,6 @@ def parse_fxt_header(file_path):
 
     return info
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 def print_summary(info):
     print(f"\n📝 {info['File']}")
     for k, v in info.items():
