@@ -54,8 +54,14 @@ A lightweight Python tool to scan and decode **MetaTrader 4 FXT and HST file hea
 | Last Sync   | `int32`    | `92`         | Last sync or update timestamp         |
 
 🖼️ Screenshot
+
 This is an example of the script output when scanning FXT and HST files:
 
+
 <img width="507" height="258" alt="image" src="https://github.com/user-attachments/assets/28604ff6-9451-4199-b325-a7beeb170b65" />
+
+
+<img width="529" height="313" alt="image" src="https://github.com/user-attachments/assets/35edd8c7-b542-4fdb-833a-396ab54fc119" />
+
 
 
