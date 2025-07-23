@@ -20,9 +20,8 @@ A lightweight Python tool to scan and decode **MetaTrader 4 FXT and HST file hea
 3. Double-click `ScanHeaders.bat` or run the script from a terminal:
    ```bash
    python History_Header_Scan.py
-The script will scan and print readable headers for all .hst and .fxt files in the folder.
 
-📁 FXT File Header (v405)
+   📁 FXT File Header (v405)
 Offset (Hex)	Field Name	Type	Description
 0x000	FXT Version	int32	FXT file format version
 0x004	Copyright	char[64]	Copyright info (MetaQuotes)
@@ -49,8 +48,6 @@ Offset (Dec)	Field Name	Type	Description
 84	Digits	int32	Number of decimal digits
 88	Timesign	int32	File creation timestamp (Unix format)
 92	Last Sync	int32	Last sync or update timestamp
-
-
 
 📜 License
 This project is licensed under the MIT License.
